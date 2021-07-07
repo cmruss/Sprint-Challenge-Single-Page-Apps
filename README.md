@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client-side routing allows an app to load all components on the initial load and lets a user transition between "pages" without refreshing the page.
 
 ## Project Set Up
 
